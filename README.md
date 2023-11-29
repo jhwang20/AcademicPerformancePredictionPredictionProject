@@ -1,1 +1,1 @@
-# AcademicPerformancePredictionPredictionProject
+# Loan Approval Prediction Project
